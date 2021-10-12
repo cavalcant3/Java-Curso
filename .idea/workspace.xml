@@ -86,7 +86,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ProfessorTest01">
+  <component name="RunManager" selected="Application.CarroTest01">
+    <configuration name="CarroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.Aintroducaoclasses.Teste.CarroTest01" />
+      <module name="Java-Curso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacore.Aintroducaoclasses.Teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EstudanteTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javacore.Aintroducaoclasses.Teste.EstudanteTest01" />
       <module name="Java-Curso" />
@@ -141,9 +154,11 @@
       <item itemvalue="Application.EstudanteTest01" />
       <item itemvalue="Application.EstudanteTest02" />
       <item itemvalue="Application.ProfessorTest01" />
+      <item itemvalue="Application.CarroTest01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarroTest01" />
         <item itemvalue="Application.ProfessorTest01" />
         <item itemvalue="Application.EstudanteTest02" />
         <item itemvalue="Application.EstudanteTest01" />
