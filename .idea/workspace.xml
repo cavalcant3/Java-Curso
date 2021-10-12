@@ -86,7 +86,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.CalculadoraTest03">
+  <component name="RunManager" selected="Application.CalculadoraTest04">
     <configuration name="CalculadoraTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javacore.Bintroducaometodos.test.CalculadoraTest01" />
       <module name="Java-Curso" />
@@ -126,6 +126,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CalculadoraTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.Bintroducaometodos.test.CalculadoraTest04" />
+      <module name="Java-Curso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacore.Bintroducaometodos.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CarroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javacore.Aintroducaoclasses.Teste.CarroTest01" />
       <module name="Java-Curso" />
@@ -139,33 +152,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProfessorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.Aintroducaoclasses.Teste.ProfessorTest01" />
-      <module name="Java-Curso" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacore.Aintroducaoclasses.Teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.ProfessorTest01" />
       <item itemvalue="Application.CarroTest01" />
       <item itemvalue="Application.CalculadoraTest01" />
       <item itemvalue="Application.CalculadoraTest02" />
       <item itemvalue="Application.CalculadoraTest03" />
+      <item itemvalue="Application.CalculadoraTest04" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculadoraTest04" />
         <item itemvalue="Application.CalculadoraTest03" />
         <item itemvalue="Application.CalculadoraTest02" />
         <item itemvalue="Application.CalculadoraTest01" />
         <item itemvalue="Application.CarroTest01" />
-        <item itemvalue="Application.ProfessorTest01" />
       </list>
     </recent_temporary>
   </component>
