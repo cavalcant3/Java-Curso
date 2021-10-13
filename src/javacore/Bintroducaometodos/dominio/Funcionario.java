@@ -7,6 +7,7 @@ public class Funcionario {
 
     //metodo de impressão dos salários em array
     public void impressão() {
+        //testando erro
         if (salarios == null){
             return;
         }
@@ -18,6 +19,7 @@ public class Funcionario {
         //método de média dos salários
     public void media(){
         double soma = 0;
+        //testando erro
         if (salarios == null){
             return;
         }
@@ -25,7 +27,7 @@ public class Funcionario {
             soma += salario;
 
         }
-        //tirando a média
+        //responsável por tirar a média
         soma /= salarios.length;
         System.out.println( "A media é: " + soma);
     }
