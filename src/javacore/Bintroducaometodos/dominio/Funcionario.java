@@ -4,7 +4,7 @@ public class Funcionario {
     private String nome;
     private int idade;
     private double[] salarios;
-    private double soma = 0;
+    private double soma;
 
     //metodo de impressão dos salários em array
     public void impressão() {
@@ -61,9 +61,6 @@ public class Funcionario {
         return soma;
     }
 
-    public void setSoma(double soma) {
-        this.soma = soma;
-    }
 
 
 
