@@ -11,15 +11,14 @@ public class Pessoa {
     }
 
     public void setNome(String nome) {
-        if (idade > 0) {
-            System.out.println("Idade invalida");
-        }
-
-        this.nome = nome;
+      this.nome = nome;
     }
 
     public void setIdade(int idade) {
         this.idade = idade;
+        if (idade < 0) {
+            System.out.println("Idade invalida");
+        }
     }
 
     public String getNome() {
