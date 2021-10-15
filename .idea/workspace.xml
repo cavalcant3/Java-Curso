@@ -86,7 +86,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.PessoaTest01">
+  <component name="RunManager" selected="Application.FuncionarioTest01">
     <configuration name="CalculadoraTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javacore.Bintroducaometodos.test.CalculadoraTest05" />
       <module name="Java-Curso" />
@@ -161,8 +161,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PessoaTest01" />
         <item itemvalue="Application.FuncionarioTest01" />
+        <item itemvalue="Application.PessoaTest01" />
         <item itemvalue="Application.CalculadoraTest05" />
         <item itemvalue="Application.EstudanteTest02" />
         <item itemvalue="Application.EstudanteTest01" />
