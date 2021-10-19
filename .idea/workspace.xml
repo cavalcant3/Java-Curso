@@ -86,13 +86,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.FuncionarioTest01">
-    <configuration name="CalculadoraTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.Bintroducaometodos.test.CalculadoraTest05" />
+  <component name="RunManager" selected="Application.AnimeTest01">
+    <configuration name="AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="Java-Curso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacore.Bintroducaometodos.test.*" />
+          <option name="PATTERN" value="javacore.Csobrecargametodos.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EstudanteTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.Bintroducaometodos.test.EstudanteTest01" />
+    <configuration name="CalculadoraTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.Bintroducaometodos.test.CalculadoraTest05" />
       <module name="Java-Curso" />
       <extension name="coverage">
         <pattern>
@@ -153,19 +153,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.EstudanteTest01" />
       <item itemvalue="Application.EstudanteTest02" />
       <item itemvalue="Application.CalculadoraTest05" />
       <item itemvalue="Application.FuncionarioTest01" />
       <item itemvalue="Application.PessoaTest01" />
+      <item itemvalue="Application.AnimeTest01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnimeTest01" />
         <item itemvalue="Application.FuncionarioTest01" />
         <item itemvalue="Application.PessoaTest01" />
         <item itemvalue="Application.CalculadoraTest05" />
         <item itemvalue="Application.EstudanteTest02" />
-        <item itemvalue="Application.EstudanteTest01" />
       </list>
     </recent_temporary>
   </component>
