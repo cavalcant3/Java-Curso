@@ -86,7 +86,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.AnimeTest01">
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="Java-Curso" />
@@ -113,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EstudanteTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.Bintroducaometodos.test.EstudanteTest02" />
+    <configuration name="FuncionarioTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.Bintroducaometodos.test.FuncionarioTest01" />
       <module name="Java-Curso" />
       <extension name="coverage">
         <pattern>
@@ -126,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuncionarioTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.Bintroducaometodos.test.FuncionarioTest01" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cavalcante.curso.java.dev.dojo.Main" />
       <module name="Java-Curso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacore.Bintroducaometodos.test.*" />
+          <option name="PATTERN" value="com.cavalcante.curso.java.dev.dojo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,19 +160,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.EstudanteTest02" />
       <item itemvalue="Application.CalculadoraTest05" />
       <item itemvalue="Application.FuncionarioTest01" />
       <item itemvalue="Application.PessoaTest01" />
       <item itemvalue="Application.AnimeTest01" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.AnimeTest01" />
         <item itemvalue="Application.FuncionarioTest01" />
         <item itemvalue="Application.PessoaTest01" />
         <item itemvalue="Application.CalculadoraTest05" />
-        <item itemvalue="Application.EstudanteTest02" />
       </list>
     </recent_temporary>
   </component>
