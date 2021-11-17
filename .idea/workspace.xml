@@ -102,7 +102,7 @@
       <recent name="javacore.Dconstrutores.Dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnimeTest01 (2)">
+  <component name="RunManager" selected="Application.JogadorTest01">
     <configuration name="AnimeTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javacore.EblocosInicializacao.Test.AnimeTest01" />
       <module name="Java-Curso" />
@@ -129,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.Csobrecargametodos.test.AnimeTest01" />
+    <configuration name="CarroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.FmodificadorStatic.test.CarroTest01" />
       <module name="Java-Curso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacore.Csobrecargametodos.test.*" />
+          <option name="PATTERN" value="javacore.FmodificadorStatic.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.FmodificadorStatic.test.CarroTest01" />
+    <configuration name="JogadorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.Gassociacao.test.JogadorTest01" />
       <module name="Java-Curso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacore.FmodificadorStatic.test.*" />
+          <option name="PATTERN" value="javacore.Gassociacao.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,19 +169,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AnimeTest01" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.AnimeTest01 (1)" />
       <item itemvalue="Application.CarroTest01" />
       <item itemvalue="Application.AnimeTest01 (2)" />
+      <item itemvalue="Application.JogadorTest01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JogadorTest01" />
         <item itemvalue="Application.AnimeTest01 (2)" />
         <item itemvalue="Application.CarroTest01" />
         <item itemvalue="Application.AnimeTest01 (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.AnimeTest01" />
       </list>
     </recent_temporary>
   </component>
