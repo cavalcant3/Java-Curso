@@ -102,22 +102,9 @@
       <recent name="javacore.Dconstrutores.Dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LerDadosDoTeclado">
+  <component name="RunManager" selected="Application.LeituraDoTecladoTest02">
     <configuration name="EscolaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javacore.Gassociacao.test.EscolaTest01" />
-      <module name="Java-Curso" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacore.Gassociacao.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JogadorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.Gassociacao.test.JogadorTest01" />
       <module name="Java-Curso" />
       <extension name="coverage">
         <pattern>
@@ -155,6 +142,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LeituraDoTecladoTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.Gassociacao.test.LeituraDoTecladoTest02" />
+      <module name="Java-Curso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacore.Gassociacao.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LerDadosDoTeclado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javacore.Gassociacao.test.LerDadosDoTeclado" />
       <module name="Java-Curso" />
@@ -169,19 +169,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.JogadorTest01" />
       <item itemvalue="Application.JogadorTest02" />
       <item itemvalue="Application.EscolaTest01" />
       <item itemvalue="Application.JogadorTest03" />
       <item itemvalue="Application.LerDadosDoTeclado" />
+      <item itemvalue="Application.LeituraDoTecladoTest02" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeituraDoTecladoTest02" />
         <item itemvalue="Application.LerDadosDoTeclado" />
         <item itemvalue="Application.JogadorTest03" />
         <item itemvalue="Application.EscolaTest01" />
         <item itemvalue="Application.JogadorTest02" />
-        <item itemvalue="Application.JogadorTest01" />
       </list>
     </recent_temporary>
   </component>
