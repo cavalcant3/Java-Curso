@@ -101,7 +101,7 @@
       <recent name="javacore.Dconstrutores.Dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnimeTest01 (1)">
+  <component name="RunManager" selected="Application.CarroTest01">
     <configuration name="AnimeTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javacore.EblocosInicializacao.Test.AnimeTest01" />
       <module name="Java-Curso" />
@@ -121,6 +121,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="javacore.Csobrecargametodos.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.FmodificadorStatic.test.CarroTest01" />
+      <module name="Java-Curso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacore.FmodificadorStatic.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,33 +167,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PessoaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.Bintroducaometodos.test.PessoaTest01" />
-      <module name="Java-Curso" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacore.Bintroducaometodos.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.AnimeTest01" />
       <item itemvalue="Application.FuncionarioTest01" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.PessoaTest01" />
       <item itemvalue="Application.AnimeTest01 (1)" />
+      <item itemvalue="Application.CarroTest01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarroTest01" />
         <item itemvalue="Application.AnimeTest01 (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.AnimeTest01" />
         <item itemvalue="Application.FuncionarioTest01" />
-        <item itemvalue="Application.PessoaTest01" />
       </list>
     </recent_temporary>
   </component>
