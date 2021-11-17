@@ -102,39 +102,13 @@
       <recent name="javacore.Dconstrutores.Dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JogadorTest02">
-    <configuration name="AnimeTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.EblocosInicializacao.Test.AnimeTest01" />
+  <component name="RunManager" selected="Application.LerDadosDoTeclado">
+    <configuration name="EscolaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.Gassociacao.test.EscolaTest01" />
       <module name="Java-Curso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacore.EblocosInicializacao.Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AnimeTest01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.FmodificadorStatic.test.AnimeTest01" />
-      <module name="Java-Curso" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacore.FmodificadorStatic.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CarroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.FmodificadorStatic.test.CarroTest01" />
-      <module name="Java-Curso" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacore.FmodificadorStatic.test.*" />
+          <option name="PATTERN" value="javacore.Gassociacao.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,20 +142,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JogadorTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.Gassociacao.test.JogadorTest03" />
+      <module name="Java-Curso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacore.Gassociacao.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LerDadosDoTeclado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.Gassociacao.test.LerDadosDoTeclado" />
+      <module name="Java-Curso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacore.Gassociacao.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.AnimeTest01 (1)" />
-      <item itemvalue="Application.CarroTest01" />
-      <item itemvalue="Application.AnimeTest01 (2)" />
       <item itemvalue="Application.JogadorTest01" />
       <item itemvalue="Application.JogadorTest02" />
+      <item itemvalue="Application.EscolaTest01" />
+      <item itemvalue="Application.JogadorTest03" />
+      <item itemvalue="Application.LerDadosDoTeclado" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LerDadosDoTeclado" />
+        <item itemvalue="Application.JogadorTest03" />
+        <item itemvalue="Application.EscolaTest01" />
         <item itemvalue="Application.JogadorTest02" />
         <item itemvalue="Application.JogadorTest01" />
-        <item itemvalue="Application.AnimeTest01 (2)" />
-        <item itemvalue="Application.CarroTest01" />
-        <item itemvalue="Application.AnimeTest01 (1)" />
       </list>
     </recent_temporary>
   </component>
