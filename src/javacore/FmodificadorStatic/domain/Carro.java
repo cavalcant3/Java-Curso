@@ -3,12 +3,12 @@ package javacore.FmodificadorStatic.domain;
 public class Carro {
     private String nome;
     private double velocidadeMaxima;
-    private double velocidadeLimite = 250;
+    public static double velocidadeLimite = 250;
 
     public void imprime(){
         System.out.println("-------------------");
         System.out.println("Nome" + this.nome);
-        System.out.println("vel. limite  " + this.velocidadeLimite);
+        System.out.println("vel. limite  " + Carro.velocidadeLimite);
         System.out.println("vel. maxima " + this.velocidadeMaxima);
     }
 
@@ -34,11 +34,4 @@ public class Carro {
         this.velocidadeMaxima = velocidadeMaxima;
     }
 
-    public double getVelocidadeLimite() {
-        return velocidadeLimite;
-    }
-
-    public void setVelocidadeLimite(double velocidadeLimite) {
-        this.velocidadeLimite = velocidadeLimite;
-    }
 }
