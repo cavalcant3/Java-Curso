@@ -104,7 +104,7 @@
       <recent name="javacore.Dconstrutores.Dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnimeTest01">
+  <component name="RunManager" selected="Application.JogadorTest02">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javacore.FmodificadorStatic.test.AnimeTest01" />
       <module name="Java-Curso" />
@@ -118,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EscolaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.Gassociacao.test.EscolaTest01" />
+    <configuration name="JogadorTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.Gassociacao.test.JogadorTest02" />
       <module name="Java-Curso" />
       <extension name="coverage">
         <pattern>
@@ -171,19 +171,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.EscolaTest01" />
       <item itemvalue="Application.JogadorTest03" />
       <item itemvalue="Application.LerDadosDoTeclado" />
       <item itemvalue="Application.LeituraDoTecladoTest02" />
       <item itemvalue="Application.AnimeTest01" />
+      <item itemvalue="Application.JogadorTest02" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JogadorTest02" />
         <item itemvalue="Application.AnimeTest01" />
         <item itemvalue="Application.LeituraDoTecladoTest02" />
         <item itemvalue="Application.LerDadosDoTeclado" />
         <item itemvalue="Application.JogadorTest03" />
-        <item itemvalue="Application.EscolaTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -208,5 +208,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
