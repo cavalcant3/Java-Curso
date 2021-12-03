@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c0afe6f-5c6e-488b-97e4-01f2e3dfbcd7" name="Changes" comment="" />
+    <list default="true" id="2c0afe6f-5c6e-488b-97e4-01f2e3dfbcd7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,13 +104,13 @@
       <recent name="javacore.Dconstrutores.Dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LeituraDoTecladoTest02">
-    <configuration name="EscolaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.Gassociacao.test.EscolaTest01" />
+  <component name="RunManager" selected="Application.AnimeTest01">
+    <configuration name="AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.FmodificadorStatic.test.AnimeTest01" />
       <module name="Java-Curso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacore.Gassociacao.test.*" />
+          <option name="PATTERN" value="javacore.FmodificadorStatic.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JogadorTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.Gassociacao.test.JogadorTest02" />
+    <configuration name="EscolaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.Gassociacao.test.EscolaTest01" />
       <module name="Java-Curso" />
       <extension name="coverage">
         <pattern>
@@ -169,19 +171,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.JogadorTest02" />
       <item itemvalue="Application.EscolaTest01" />
       <item itemvalue="Application.JogadorTest03" />
       <item itemvalue="Application.LerDadosDoTeclado" />
       <item itemvalue="Application.LeituraDoTecladoTest02" />
+      <item itemvalue="Application.AnimeTest01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnimeTest01" />
         <item itemvalue="Application.LeituraDoTecladoTest02" />
         <item itemvalue="Application.LerDadosDoTeclado" />
         <item itemvalue="Application.JogadorTest03" />
         <item itemvalue="Application.EscolaTest01" />
-        <item itemvalue="Application.JogadorTest02" />
       </list>
     </recent_temporary>
   </component>
@@ -195,5 +197,16 @@
       <updated>1634006661458</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
